@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# This is a single-line comment
+echo "Hello, World!"
+
+# This is a multi-line comment
+<< COMMENT
+This is multi-line comment
+you can add multi line comment
+COMMENT
+
